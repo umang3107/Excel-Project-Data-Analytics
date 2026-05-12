@@ -22,5 +22,5 @@ This dashboard analyzes personal spending patterns, savings trends, and payment 
 - Spending peaked during weekends
 
 ## Dashboard Preview
-(Add screenshots here)
+
 <img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/1f2b856d-fc59-400d-93be-fa63e699ee5f" />
